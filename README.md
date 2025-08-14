@@ -1,2 +1,2 @@
 # BikeTrack-site
-Contains the privac policy for the app
+Contains the privacy policy for the app
